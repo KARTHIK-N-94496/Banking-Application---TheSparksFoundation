@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Banking Application</string>
+    <string name="all_users">All Users</string>
+    <string name="all_transactions">All Transactions</string>
+    <string name="select_a_user_to_transfer_money">Select a user to transfer money</string>
+    <string name="name">Name :</string>
+    <string name="account_no">Account No :</string>
+    <string name="email">Email :</string>
+    <string name="ifsc_code">IFSC Code :</string>
+    <string name="mobile_number">Mobile Number :</string>
+    <string name="mobile_no">Mobile No :</string>
+    <string name="current_balance">Current Balance :</string>
+    <string name="transfer_money">Transfer Money</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="not_set">Not Set</string>
+    <string name="transaction_cancelled">Transaction Cancelled</string>
+    <string name="to">To</string>
+    <string name="from">From</string>
+    <string name="not_selected">Not Selected</string>
+    <string name="user_name">User Name</string>
+    <string name="rs">Rs.</string>
+    <string name="end_symbol">/-</string>
+    <string name="_7000">7000</string>
+</resources>
